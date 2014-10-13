@@ -1,0 +1,26 @@
+{
+    "name": "soa-commerce/doctrine-manager-bundle",
+    "type": "symfony-bundle",
+    "description": "",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Delevoye",
+            "email": "daviddelevoye@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/framework-bundle": "~2.2",
+        "soa-commerce/doctrine-manager": "@dev"
+    },
+    "autoload": {
+        "psr-0": { "Doctrine\\ManagerBundle": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
