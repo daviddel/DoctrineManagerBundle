@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "symfony/framework-bundle": "~2.2",
-        "soa-commerce/doctrine-manager": "~0.1"
+        "soa-commerce/doctrine-manager": "~0.2"
     },
     "autoload": {
         "psr-0": { "Doctrine\\ManagerBundle": "" }
