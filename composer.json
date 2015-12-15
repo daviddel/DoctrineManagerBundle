@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "symfony/framework-bundle": "~2.2",
+        "symfony/framework-bundle": "~2.3|~3.0",
         "daviddel/doctrine-manager": "~0.3"
     },
     "autoload": {
