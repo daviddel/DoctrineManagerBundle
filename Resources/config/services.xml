@@ -10,12 +10,5 @@
                 <argument type="service" id="service_container" />
             </call>
         </service>
-        <!--
-        <service id="manager.default" class="EcommerceAPI\ModelManagerBundle\Manager\ModelManager">
-            <argument></argument>
-            <argument type="service" id="doctrine.orm.entity_manager" />
-            <argument type="service" id="service_container" />
-        </service>
-        -->
     </services>
 </container>
