@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "symfony/framework-bundle": "~2.3|~3.0",
-        "daviddel/doctrine-manager": "^0.3"
+        "daviddel/doctrine-manager": "~0.4"
     },
     "autoload": {
         "psr-0": { "Doctrine\\ManagerBundle": "" }
